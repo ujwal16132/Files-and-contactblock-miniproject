@@ -51,11 +51,11 @@ def c_b(contacts):
         elif press == "exit":
             print("Sucessfully excited")
             break
-contact_block = ({"ajay":9421870802,
-            "vijay":785777709,
-            "suresh":872598768,
-            "ramesh":594958383,
-            "ujwal":8977463453,
+contact_block = ({"ajay":"xxxxxx",
+            "vijay":"xxxxxx",
+            "suresh":"xxxxxx",
+            "ramesh":"xxxxxx",
+            "ujwal":"xxxxxx",
                     })
 c_b(contact_block)
 
